@@ -162,5 +162,9 @@ cython_debug/
 
 Prof/
 Practicas/
+<<<<<<< HEAD
 test/
 *.DS_Store
+=======
+data_analisis/
+>>>>>>> upstream/main
